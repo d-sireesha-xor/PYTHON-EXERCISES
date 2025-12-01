@@ -1,0 +1,16 @@
+{
+  "interface": {
+    "name": "swp1",
+    "type": "interface",
+    "ipv4": {
+      "address": "10.1.1.1",
+      "prefix_length": 24
+    },
+    "counters": {
+      "in_octets": 232334,
+      "in_unicast_pkts": 3234324,
+      "out_octets": 1212123,
+      "out_unicast_pkts": 435345
+    }
+  }
+}
